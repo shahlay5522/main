@@ -57,6 +57,7 @@ To implement and compare the performance of **serial computation** and **multipr
 | Beth Hess         | SID1004    | Biology      | 24                          |
 
 - **Execution Time**: 93.1830 seconds
+![image](https://github.com/user-attachments/assets/27aac0fc-46c6-48d0-a5ca-30ef693ba722)
 
 
 ### **2. Parallel Computation (`multiprocessing_computation.py`)**
@@ -74,3 +75,4 @@ To implement and compare the performance of **serial computation** and **multipr
 | Beth Hess         | SID1004    | Biology      | 24                          |
 
 - **Execution Time**: 29.7680 seconds
+![image](https://github.com/user-attachments/assets/bd020884-3194-46da-a654-3cdbcda30ec9)
